@@ -2,6 +2,8 @@
 This is a software that helps sends an alert (ex. rain alert) as SMS using python code
 
 RESOURCES NEEDED FOR THE APIs
+====
+
 1-- You'll need an account on Weather Map (go here https://openweathermap.org/) to get the api for the weather
 2-- You'll need an account on Twilio (go here https://www.twilio.com/) to get the api for the sms 
 
